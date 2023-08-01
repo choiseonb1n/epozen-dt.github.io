@@ -9,7 +9,7 @@ author: 최선빈
 ---
 &nbsp;
 
-> ## 커스텀 컨볼루션
+> ## 커스텀 컨볼루션(CustomConvolution)
 
 &nbsp;
 
