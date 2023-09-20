@@ -1,5 +1,5 @@
 ---
-title: "데이터 중심의 AI"
+title: "Docker"
 last_modified_at: 2023-07-31
 author: 최선빈
 ---
